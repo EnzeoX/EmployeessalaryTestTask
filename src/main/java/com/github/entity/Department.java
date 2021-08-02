@@ -1,6 +1,5 @@
 package com.github.entity;
 
-
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
